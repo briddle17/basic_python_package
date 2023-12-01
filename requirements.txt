@@ -1,0 +1,2 @@
+#Requirements for this (Pandas is required for the assignment)
+pandas
